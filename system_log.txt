@@ -1,0 +1,20 @@
+2025-06-26 15:55:26 [INFO] Burnout score calculated successfully.
+2025-06-26 15:55:26 [error] Failed to read log file: missing timestamp
+2025-06-26 22:45:15 [INFO] Burnout score calculated successfully.
+2025-06-26 22:45:15 [error] Failed to read log file: missing timestamp
+2025-06-26 22:47:00 [INFO] Burnout score calculated successfully.
+2025-06-26 22:47:00 [error] Failed to read log file: missing timestamp
+2025-07-08 23:33:05 [INFO] Burnout score calculated successfully.
+2025-07-08 23:33:05 [error] Failed to read log file: missing timestamp
+2025-07-08 23:33:05 [INFO] Burnout score calculated successfully.
+2025-07-08 23:33:05 [error] Failed to read log file: missing timestamp
+2025-07-08 23:34:09 [INFO] Burnout score calculated successfully.
+2025-07-08 23:34:09 [error] Failed to read log file: missing timestamp
+2025-07-08 23:34:09 [INFO] Burnout score calculated successfully.
+2025-07-08 23:34:09 [error] Failed to read log file: missing timestamp
+2025-07-08 23:44:00 [INFO] Burnout score calculated successfully.
+2025-07-08 23:44:00 [error] Failed to read log file: missing timestamp
+2025-07-09 13:42:48 [INFO] Burnout score calculated successfully.
+2025-07-09 13:42:48 [error] Failed to read log file: missing timestamp
+2025-07-09 22:08:19 [INFO] Burnout score calculated successfully.
+2025-07-12 14:29:30 [INFO] Burnout score calculated successfully.

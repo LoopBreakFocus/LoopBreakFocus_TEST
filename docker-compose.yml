@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+
+  backend:
+    build: .
+    container_name: loopbreak_backend
+    volumes:
+      - ./shared_data:/app/shared_data
+    ports:
+      - "5050:5000"   # Expose backend on localhost:5050 to avoid conflict
+    command: ["python", "core/api_server.py"]
+
+  athena:
+    build: .
+    container_name: athena_frontend
+    volumes:
+      - ./shared_data:/app/shared_data
+    ports:
+      - "8000:8000"   # Athena frontend remains on localhost:8000
+    command: ["python", "athena/athena_frontend.py"]
+
+networks:
+  default:
+    name: loopbreakfocus_default

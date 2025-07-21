@@ -1,0 +1,4 @@
+pandas
+psutil
+numpy
+appscript  # <-- only for macOS monitoring (used instead of AppKit)

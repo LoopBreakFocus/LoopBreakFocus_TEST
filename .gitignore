@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+.env
+.DS_Store
+shared_data/*
+!shared_data/.keep
+
+# Ignore Docker cache and system files
+docker-compose.override.yml
+*.pid
+*.sock
+
+.vscode/
