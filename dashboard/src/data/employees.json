@@ -1,0 +1,32 @@
+[
+  {
+    "id": "emp001",
+    "name": "Riya Sharma",
+    "department": "Engineering",
+    "role": "Frontend Developer",
+    "productivityScore": 74,
+    "burnoutScore": 61,
+    "burnoutHistory": [48, 52, 56, 60, 61],
+    "daysToBurnout": 10,
+    "lastActive": "2025-07-28T11:30:00",
+    "goalsCompleted": 6,
+    "goalsTotal": 10,
+    "suggestions": ["Encourage breaks", "Reschedule late-night tasks"],
+    "status": "Warning"
+  },
+  {
+    "id": "emp002",
+    "name": "Arjun Mehta",
+    "department": "Design",
+    "role": "UX Designer",
+    "productivityScore": 88,
+    "burnoutScore": 38,
+    "burnoutHistory": [42, 40, 39, 38, 38],
+    "daysToBurnout": 25,
+    "lastActive": "2025-07-28T10:00:00",
+    "goalsCompleted": 9,
+    "goalsTotal": 10,
+    "suggestions": ["Maintain current rhythm"],
+    "status": "Healthy"
+  }
+]

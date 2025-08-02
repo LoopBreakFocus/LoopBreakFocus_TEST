@@ -5,7 +5,7 @@ import pandas as pd
 import subprocess
 from datetime import datetime, timedelta
 import os
-from core.logger import log_event  # Adjust path if logger.py is elsewhere
+from logger import log_event  # Adjust path if logger.py is elsewhere
 
 LOG_FILE = "/Users/VyomeshJoshi/Desktop/LoopBreakFocus/shared_data/app_usage_log.csv"
 BURNOUT_LOG = "/Users/VyomeshJoshi/Desktop/LoopBreakFocus/shared_data/burnout_log.csv"
